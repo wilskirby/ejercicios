@@ -10,5 +10,10 @@ Los ejercicios de crossfit de ayuda para la vida
 -Te mantiene activo
 -Eres fuerte
 
+# Instrucciones
+1. Comienza calenando por 5 a 10 mins
+2. Realiza la actividad de crossfit
+3. Enfriamiento
+
 
 ```
