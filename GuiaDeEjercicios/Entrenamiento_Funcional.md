@@ -15,4 +15,8 @@ Los ejercicios de entrenamiento funcional son aquellas actividades que sirven pa
 1. Comienza con un calentamiento de 30 mins
 2. Realiza la actividad de entrenr
 3. Termina con enfriamento y estiramiento
+
+## Consejos
+- Manten un buen trabajo
+- Buen ritmo
 ```
