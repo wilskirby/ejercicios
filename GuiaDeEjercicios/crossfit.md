@@ -15,5 +15,9 @@ Los ejercicios de crossfit de ayuda para la vida
 2. Realiza la actividad de crossfit
 3. Enfriamiento
 
+#Consejos
+-Manten buena hidratacion
+-Limitate no te excedas
+
 
 ```
