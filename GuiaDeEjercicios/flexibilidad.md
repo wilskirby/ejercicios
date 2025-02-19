@@ -16,3 +16,9 @@ Los ejercicios de flexibilidad es bueno para tu cuerpo
 2. Actividad principal (estirar piernas)
 3. Enfriamiento y estiramientos (5-10 minutos)
 
+## Consejos
+
+-No sobrepasarse
+-Mantener el ritmo
+
+```
