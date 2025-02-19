@@ -16,5 +16,8 @@ Los ejercicios de natacion aumenta la fuerza en todo el cuerpo
 2. Realiza natacon al menos por una hora
 3. Descansa y termina con un enfriamiento
 
+## Consejos
+-Manten un buen rimo
+-No te sobrepases
 
 ```
