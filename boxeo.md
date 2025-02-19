@@ -15,4 +15,8 @@ Los ejercicios de boxeo te llegan a servir para la vida entera
 2. Realiza entrenamiento con saco de boxeo
 3. Termina con un enfriamiento
 
+## Consejos
+-Nunca te excedas
+-hidratate
+
 ```
