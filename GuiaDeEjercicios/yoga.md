@@ -14,4 +14,8 @@ Los ejercicios de Yoga funcionan para mayor relajacion
 2. Actividad movimiento de cuerpo
 3. Enfriamiento
 
+## Consejos
+- Manten una respiracion controlada
+- No te deshidrates
+
 ```
