@@ -17,4 +17,8 @@ Los ejercicios de Fuerza son para aumentar tu actividad en tus musculos
 2. Actividad principal (al menos 30 minutos)
 3. Enfriamiento y estiramientos (5-10 minutos)
 
+## Consejos
 
+-Buena hidratacion
+-ten buen ritmo
+```
