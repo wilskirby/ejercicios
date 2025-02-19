@@ -10,4 +10,9 @@ Los ejercicios de flexibilidad es bueno para tu cuerpo
 -Es bueno para el body
 -Saludable
 
+## Instrucciones
+
+1. Calentamiento (5-10 minutos)
+2. Actividad principal (estirar piernas)
+3. Enfriamiento y estiramientos (5-10 minutos)
 
