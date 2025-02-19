@@ -8,4 +8,10 @@ Los ejercicios de Yoga funcionan para mayor relajacion
 -Aumenta la relajacion
 -Menos estres
 -Buena musculatura
+
+## Instrucciones
+1. Calentamieno 5 mins
+2. Actividad movimiento de cuerpo
+3. Enfriamiento
+
 ```
