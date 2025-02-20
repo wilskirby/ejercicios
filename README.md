@@ -1,7 +1,7 @@
-# Bienvenido a nuestra guía de ejercicios!
+# Bienvenido a nuestra guía de ejercicios! 💪
 Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripciones y beneficios de diferentes tipos de ejercicios.
 
-## Tipos de Ejercicio
+## Tipos de Ejercicio  ✨
 
 1. [Ejercicio de Cardio](https://github.com/wilskirby/ejercicios/blob/master/GuiaDeEjercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 
@@ -15,7 +15,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 9. [Ejercicio de Boxeo](https://github.com/wilskirby/ejercicios/blob/master/GuiaDeEjercicios/boxeo.md): Mejora la coordinación y la resistencia.
 10. [Ejercicio de CrossFit](https://github.com/wilskirby/ejercicios/blob/master/GuiaDeEjercicios/crossfit.md): Entrenamiento intensivo y funcional.
 
-¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
+¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable! 😉
 
 ##
-Este repositorio fue hecho y desarrollado por [JuanDavidSaavedra](https://github.com/wilskirby)
+Este repositorio fue hecho y desarrollado por [JuanDavidSaavedra](https://github.com/wilskirby) 😇
